@@ -1,0 +1,250 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.App1 {
+  display: flex;
+  background-color: rgba(3, 37, 65);
+}
+
+.nav {
+  width: 150px;
+  position: relative;
+  left: 30px;
+}
+
+.Navbar1 {
+  display: flex;
+}
+
+.sauka {
+  margin: 20px;
+  background-color: black !important;
+}
+
+.sauka1 {
+  margin: 20px;
+}
+
+.sauka2 {
+  margin: 20px;
+}
+
+.sauka3 {
+  margin: 20px;
+}
+
+.knopkala {
+  margin-left: 60px;
+  margin-top: 20px;
+}
+
+.salom {
+  width: 100px;
+}
+
+.ozgar {
+  background-color: rgba(3, 37, 65);
+  color: white;
+  width: 40px;
+  border-radius: 10px;
+}
+
+.ozgar:hover {
+  background-color: white;
+  color: black;
+}
+
+.card1 {
+  margin-left: 500px;
+  display: flex;
+  color: white;
+}
+
+.sanmi {
+  margin-left: 30px;
+  color: white;
+}
+
+.sanku {
+  margin-left: 20px;
+}
+
+.qidiruv {
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
+
+.qoshamiz {
+  position: relative;
+  top: 20px;
+  right: 20px;
+}
+
+.qichigi {
+  margin-left: 50px;
+  position: relative;
+  top: 50px;
+}
+
+.Klone {
+  width: 250px;
+  margin-left: 50px;
+}
+
+.poisk {
+  text-align: center;
+  background-color: rgb(203, 203, 203);
+  height: 30px;
+  border-radius: 10px;
+}
+
+.poisk:hover {
+  background-color: black;
+  color: white;
+}
+
+.glavniy {
+  width: 1536px;
+  height: 500px;
+  position: relative;
+  bottom: 22px;
+  background-image: url('../public/thumb-1920-546678.jpg');
+}
+
+.inputcha {
+  width: 90%;
+  height: 50px;
+  top: 100px;
+  border-style: none;
+  position: relative;
+  left: 50px;
+  border-radius: 50px;
+}
+
+.knopka6 {
+  position: relative;
+  left: 1050px;
+  top: 63px;
+  border-radius: 20px;
+
+}
+
+.knopka9 {
+  background-color: aquamarine;
+  border-radius: 30px;
+  position: relative;
+  width: 80px;
+  height: 52px;
+  right: 30px;
+  top: 100px;
+  color: white;
+  border-style: none;
+}
+
+.knopka9:hover {
+  background-color: rgb(0, 231, 154);
+  color: black;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.rasmchla {
+  width: 300px;
+  margin: 39px;
+  border-radius: 20px;
+}
+
+.Eng {
+
+  width: 1536px;
+  height: 500px;
+  position: relative;
+  color: black;
+  bottom: 22px;
+  background-image: url('../public/fm67BeFViXJSoFm38N3a-A.jpeg');
+}
+.docto{
+  color: black;
+  width: 580px;
+}
+.doctor{
+  color: black;
+}
+.rasmkuuu{
+  width: 200px;
+}
+.tugatish{
+  padding: 100px;
+  background-color: rgba(3, 37, 65);
+}
+.bir{
+  width: 100px;
+  position: relative;
+  left: 300px;
+  bottom: 130px;
+  color: white;
+
+}
+.ikki{
+  width: 100px;
+  position: relative;
+  left: 550px;
+  bottom: 350px;
+  color: white;
+}
+.uch{
+  width: 100px;
+  position: relative;
+  left: 800px;
+  bottom: 610px;
+  color: white;
+}
+.tor{
+  width: 100px;
+  position: relative;
+  left: 1100px;
+  bottom: 775px;
+  color: white;
+}
